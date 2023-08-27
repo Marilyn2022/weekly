@@ -2,12 +2,12 @@
   "title": "奶酪周刊",
   "author": "奔跑中的奶酪",
   "description": "奶酪周刊，每周日发布",
-  "keywords": "奶酪周刊，奔跑中的奶酪,runningcheese",
+  "keywords": "奶酪周刊，奔跑中的奶酪,Marilyn2022",
   "icon": "https://runningcheese.com/runningcheese2.svg",
   "pic": "",
-  "homePage": "https://www.runningcheese.net",
-  "blogPage": "https://www.runningcheese.com",
-  "githubId": "runningcheese",
-  "repo": "runningcheese/weekly",
+  "homePage": "https://weekly.tsq360.cf",
+  "blogPage": "https://www.tsq360.cf",
+  "githubId": "Marilyn2022",
+  "repo": "Marilyn2022/weekly",
   "pv":true
 }
